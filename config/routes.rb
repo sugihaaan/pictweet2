@@ -55,6 +55,12 @@ Rails.application.routes.draw do
   #   end
 #llalalalalal
 # llalalalalal
+<<<<<<< HEAD
 #bbbb
 #2222222
+=======
+#yyyyyakakkayayyayayyayayl
+#kakakkakreieieirei
+
+>>>>>>> test222
 end
