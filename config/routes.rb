@@ -55,4 +55,7 @@ Rails.application.routes.draw do
   #   end
 #llalalalalal
 # llalalalalal
+#yyyyyakakkayayyayayyayayl
+#kakakkakreieieirei
+
 end
